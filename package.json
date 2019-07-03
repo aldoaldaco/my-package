@@ -1,0 +1,19 @@
+{
+  "name": "my-package",
+  "version": "0.0.1",
+  "description": "modulo",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:coverage": "jest --coverage"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "aldo aldaco contreras",
+  "license": "ISC",
+  "devDependencies": {
+    "faker": "^4.1.0",
+    "jest": "^24.8.0"
+  }
+}
